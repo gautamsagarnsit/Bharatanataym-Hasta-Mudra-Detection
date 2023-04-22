@@ -1,0 +1,1 @@
+python tools/infer.py --weights runs/train/exp40/weights/best_ckpt.pt --source data/sample_images --save-txt
