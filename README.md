@@ -68,7 +68,7 @@ Your can also specify a checkpoint path to `--resume` parameter by
 --resume /path/to/your/checkpoint/path
 
 ```
-#ResNet18
+# ResNet18
 ## Step 1: Data Preparation
 Data folder should be structured as follows:
 ```
