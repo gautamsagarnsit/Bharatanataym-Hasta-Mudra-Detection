@@ -1,7 +1,4 @@
 # YOLOv6
-## Introduction
-
-YOLOv6 is a single-stage object detection framework dedicated to industrial applications, with hardware-friendly efficient design and high performance.
 
 ### Install
 
@@ -71,3 +68,13 @@ Your can also specify a checkpoint path to `--resume` parameter by
 --resume /path/to/your/checkpoint/path
 
 ```
+#ResNet18
+## Step 1: Data Preparation
+Data folder should be structured as follows:
+├── Data/
+│   ├── bht_mudra/
+│   │   ├── image1.jpg
+│   │   └── image2.jpg
+|   ├── test_set/
+|   ├── train.csv
+|   ├── test.csv
