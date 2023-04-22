@@ -3,7 +3,7 @@
 ### Install
 
 ```shell
-git clone https://github.com/meituan/YOLOv6
+git clone https://github.com/gautamsagarnsit/Bharatanataym-Hasta-Mudra-Detection.git
 cd YOLOv6
 pip install -r requirements.txt
 ```
