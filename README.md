@@ -78,3 +78,8 @@ Data folder should be structured as follows:
 |   ├── test_set/
 |   ├── train.csv
 |   ├── test.csv
+
+## Step 2: Train
+Run train_resnet.py file
+## Step 3: Infer
+Run infer_resnet.py file
