@@ -71,6 +71,7 @@ Your can also specify a checkpoint path to `--resume` parameter by
 #ResNet18
 ## Step 1: Data Preparation
 Data folder should be structured as follows:
+```
 ├── Data/
 │   ├── bht_mudra/
 │   │   ├── image1.jpg
@@ -78,7 +79,7 @@ Data folder should be structured as follows:
 |   ├── test_set/
 |   ├── train.csv
 |   ├── test.csv
-
+```
 ## Step 2: Train
 Run train_resnet.py file
 ## Step 3: Infer
